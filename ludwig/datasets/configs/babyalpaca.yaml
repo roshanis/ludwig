@@ -1,6 +1,6 @@
 version: 1.0
 name: babyalpaca
-download_urls: https://github.com/roshanis/ludwig/blob/master/ludwig/datasets/babyalpaca.json
+download_urls: https://raw.githubusercontent.com/roshanis/ludwig/master/ludwig/datasets/babyalpaca.json
 dataset_filenames: babyalpaca.json
 description: |
   Baby Alpaca instruction-tuning dataset for LLM fine-tuning.
