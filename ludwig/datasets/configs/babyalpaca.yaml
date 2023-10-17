@@ -1,5 +1,5 @@
 version: 1.0
-name: alpaca
+name: babyalpaca
 download_urls: https://github.com/roshanis/ludwig/blob/master/ludwig/datasets/babyalpaca.json
 dataset_filenames: babyalpaca.json
 description: |
